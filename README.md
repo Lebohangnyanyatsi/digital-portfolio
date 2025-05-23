@@ -19,7 +19,6 @@ Career Counselling
 
  📁 Evidence
 (https://myclassroom.cput.ac.za/ultra/courses/_162232_1/grades/scorm/overview/_3337525_1/column/_1060494_1/attempt/_10698442_1?courseId=_162232_1) 
-Example:  
 
 🧠 STAR Reflection
 
