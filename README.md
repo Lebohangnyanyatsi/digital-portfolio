@@ -57,8 +57,7 @@ I gained digital certificates and a clear sense of which roles fit my strengths 
 
 ---
 
-Personality Assessment
-https://github.com/Lebohangnyanyatsi/HealthcareManagementSystem
+Personality Assessment:
 
 📁 Evidence
 https://github.com/Lebohangnyanyatsi/HealthcareManagementSystem
