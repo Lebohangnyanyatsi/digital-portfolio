@@ -116,7 +116,7 @@ Task:
 I needed to build a clean, well-structured CV that highlighted my education, skills, and projects.
 
 Action:  
-I used Canva and followed tips from the career centre. I tailored the content to the ICT industry.
+I used Microsoft and followed tips from the career centre. I tailored the content to the ICT industry.
 
 Result:  
 I now have a downloadable CV that’s industry-ready and has received positive feedback from peers and mentors.
@@ -127,6 +127,7 @@ CV Submission
 
 📁 Evidence
 
+https://github.com/Lebohangnyanyatsi/wil-it2025-cv-tutorial-Lebohangnyanyatsi
 
 🧠 STAR Reflection
 
@@ -134,7 +135,7 @@ Situation:
 We were required to submit our CV as part of the work readiness programme.
 
 Task:  
-My responsibility was to upload the document correctly and on time via Blackboard.
+My responsibility was to upload the document correctly and on time via Github.
 
 Action:  
 I followed all submission steps, double-checked my file, and submitted early.
