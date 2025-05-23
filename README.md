@@ -1,9 +1,9 @@
-# 🌐 Digital Portfolio – Work Readiness Training  
-**Name:** Lebuhang Nyanyantsi  
-**Student Number:** 222184353  
-**Qualification:** Diploma in ICT (Applications Development)  
-**Subject Code:** PRP370S / PRP371S / PRP372S  
-**Date:** May 2025
+🌐 Digital Portfolio – Work Readiness Training  
+Name: Lebuhang Nyanyantsi  
+Student Number: 222184353  
+Qualification: Diploma in ICT (Applications Development)  
+Subject Code: PRP370S 
+Date:25 May 2025
 
 
  📌 Table of Contents
