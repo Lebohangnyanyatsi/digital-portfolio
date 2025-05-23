@@ -134,7 +134,7 @@ My CV was submitted successfully and is ready to be used in job applications.
 
 
 
-## ✅ Conclusion
+##  Conclusion
 
 This digital portfolio demonstrates my progress in preparing for the ICT industry. Through self-assessment, career planning, and skill development, I have gained the confidence and tools to successfully enter the workforce.
 
