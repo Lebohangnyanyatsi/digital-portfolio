@@ -50,12 +50,11 @@ Task:
 I aimed to align my current skill set with industry requirements and my career goals.
 
 Action:  
-I completed several LinkedIn Learning courses including Python, Git, and HTML5.
+I completed several LinkedIn Learning courses including Python, Git, and HTML.
 
 Result:  
 I gained digital certificates and a clear sense of which roles fit my strengths and interests best.
 
----
 
 Personality Assessment:
 
@@ -65,16 +64,39 @@ https://github.com/Lebohangnyanyatsi/HealthcareManagementSystem
 🧠 STAR Reflection
 
 Situation:  
-To better understand my personal and professional behavior, I completed the MBTI personality assessment.
-
+While exploring ways to apply my ICT skills to real-world problems, I identified a need for efficient patient data management in local clinics. 
+This inspired me to develop a Healthcare Management System to streamline record-keeping and appointments.
 Task: 
-The goal was to identify how my personality influences team roles and work environments.
+My goals were to:
+
+Design a user-friendly system for clinic staff to manage patient records securely.
+
+Implement features like appointment scheduling and medical history tracking.
+
+Ensure compliance with data privacy principles.
+
 
 Action:  
-I took the test online and read the full profile results for my type: INTJ
+Built a web-based system using React and Javascript.
+
+Included modules for:
+
+Patient registration
+
+Appointment scheduling (with SMS reminders)
+
+Prescription tracking
 
 Result:  
-It provided valuable insight into my communication style, which helps in preparing for job interviews and workplace dynamics.
+Completed a working prototype with all planned features (though not yet deployed in a live clinic).
+
+Gained hands-on experience in:
+
+Full-stack development
+
+Debugging complex database queries
+
+Balancing functionality with usability
 
 
 
