@@ -149,5 +149,4 @@ Conclusion
 
 This digital portfolio demonstrates my progress in preparing for the ICT industry. Through self-assessment, career planning, and skill development, I have gained confidence in entering the workplace.
 
-> 🔗 **GitHub Repository Link:** [https://github.com/LebuhangNyanyantsi/digital-portfolio](https://github.com/LebuhangNyanyantsi/digital-portfolio)  
-> 🔗 **LinkedIn Profile:** 
+🔗GitHub Repository Link: (https://linkedin.com/in/lebuhang-nyanyantsi-b67875234)
