@@ -59,6 +59,7 @@ I gained digital certificates and a clear sense of which roles fit my strengths 
 Personality Assessment:
 
 📁 Evidence
+
 https://github.com/Lebohangnyanyatsi/HealthcareManagementSystem
 
 🧠 STAR Reflection
@@ -98,7 +99,7 @@ Debugging complex database queries
 
 Balancing functionality with usability
 
-
+[linkedin.com/in/lebuhang-nyanyantsi-b67875234](https://linkedin.com/in/lebuhang-nyanyantsi-b67875234)
 
 Create a CV
 
@@ -149,4 +150,4 @@ Conclusion
 This digital portfolio demonstrates my progress in preparing for the ICT industry. Through self-assessment, career planning, and skill development, I have gained confidence in entering the workplace.
 
 > 🔗 **GitHub Repository Link:** [https://github.com/LebuhangNyanyantsi/digital-portfolio](https://github.com/LebuhangNyanyantsi/digital-portfolio)  
-> 🔗 **LinkedIn Profile:** [linkedin.com/in/lebuhang-nyanyantsi-b67875234](https://linkedin.com/in/lebuhang-nyanyantsi-b67875234)
+> 🔗 **LinkedIn Profile:** 
